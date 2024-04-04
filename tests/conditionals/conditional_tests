@@ -1,0 +1,5 @@
+("tests/conditionals/two_param_if_set.wast",[10],[246])
+("tests/conditionals/if_stack.wast",[10,11],[52])
+("tests/conditionals/if_stack.wast",[12,11],[53])
+("tests/conditionals/nested_ifs.wast",[5],[5])
+("tests/conditionals/nested_ifs.wast",[4],[4])

@@ -1,0 +1,5 @@
+("tests/loops/fact_loop.wast", [5], [120])
+("tests/loops/fib_loop.wast", [13], [233])
+("tests/loops/collatz_sum.wast", [7], [288])
+("tests/loops/loop_if_br.wast", [], [2])
+("tests/loops/loop_if_br_local.wast", [], [2])

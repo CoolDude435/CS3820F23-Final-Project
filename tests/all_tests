@@ -1,0 +1,5 @@
+tests/numeric/numeric_tests
+tests/variables/variable_tests
+tests/conditionals/conditional_tests
+tests/calls/call_tests
+tests/loops/loop_tests
